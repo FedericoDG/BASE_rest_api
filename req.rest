@@ -1,0 +1,5 @@
+@produccion = https://nazgulrestapi.herokuapp.com
+###
+@desarrollo = http://localhost:3000
+###
+get {{desarrollo}}/api/users/
